@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "name": "HTML5 Boilerplate",
+      "tipewarna": "orange",
+      "rate": 80,
+      "available": true,
+      "imgs": "images/ic_launcher_js.png"
+    },
+    {
+      "name": "Angular",
+      "tipewarna": "red",
+      "rate": 90,
+      "available": true,
+      "imgs": "images/ic_launcher_ts.png"
+    },
+    {
+      "name": "Aurelia",
+      "tipewarna": "crimson",
+      "rate": 78,
+      "available": true,
+      "imgs": "images/ic_launcher_js.png"
+    },
+    {
+      "name": "Vue",
+      "tipewarna": "teal",
+      "rate": 75,
+      "available": true,
+      "imgs": "images/ic_launcher_js.png"
+    },
+    {
+      "name": "Express",
+      "tipewarna": "blue",
+      "rate": 86,
+      "available": true,
+      "imgs": "images/ic_launcher_js.png"
+    },
+    {
+      "name": "Meteor",
+      "tipewarna": "crimson",
+      "rate": 98,
+      "available": true,
+      "imgs": "images/ic_launcher_js.png"
+    }
+  ]
+}
